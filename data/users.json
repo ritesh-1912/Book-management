@@ -1,0 +1,70 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John",
+        "surname": "Doe",
+        "email": "user123@email.com",
+        "issuedBooks": "1",
+        "issuedDate": "05/12/2024",
+        "returnDate": "06/12/2024",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "05/12/2024"
+      },
+      {
+        "id": "2",
+        "name": "Emily",
+        "surname": "Smith",
+        "email": "emily.smith@email.com",
+        "issuedBooks": "2",
+        "issuedDate": "03/12/2024",
+        "returnDate": "10/12/2024",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "03/12/2024"
+      },
+      {
+        "id": "3",
+        "name": "Michael",
+        "surname": "Brown",
+        "email": "michael.brown@email.com",
+        "issuedBooks": "3",
+        "issuedDate": "01/12/2024",
+        "returnDate": "07/12/2024",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "01/12/2024"
+      },
+      {
+        "id": "4",
+        "name": "Sarah",
+        "surname": "Johnson",
+        "email": "sarah.johnson@email.com",
+        "issuedBooks": "1",
+        "issuedDate": "04/12/2024",
+        "returnDate": "11/12/2024",
+        "subscriptionType": "",
+        "subscriptionDate": "04/12/2024"
+      },
+      {
+        "id": "5",
+        "name": "David",
+        "surname": "Williams",
+        "email": "david.williams@email.com",
+        "issuedBooks": "2",
+        "issuedDate": "02/12/2024",
+        "returnDate": "09/12/2024",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "02/12/2024"
+      },
+      {
+        "id": "6",
+        "name": "Sophia",
+        "surname": "Jones",
+        "email": "sophia.jones@email.com",
+        "issuedBooks": "4",
+        "issuedDate": "05/12/2024",
+        "returnDate": "12/12/2024",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "05/12/2024"
+      }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "books":[
+  {
+    "id": "1",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "price": "12.99",
+    "publisher": "T. Egerton, Whitehall"
+  },
+  {
+    "id": "2",
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": "22.99",
+    "publisher": "George Allen & Unwin"
+  },
+  {
+    "id": "3",
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "price": "14.99",
+    "publisher": "Bloomsbury (UK), Scholastic (US)"
+  },
+  {
+    "id": "4",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "price": "10.99",
+    "publisher": "Scribner"
+  },
+  {
+    "id": "5",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "price": "15.99",
+    "publisher": "Harper & Brothers"
+  },
+  {
+    "id": "6",
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "price": "13.99",
+    "publisher": "Secker & Warburg"
+  }
+]
+}
