@@ -34,14 +34,6 @@
   },
   {
     "id": "5",
-    "name": "Moby-Dick",
-    "author": "Herman Melville",
-    "genre": "Adventure",
-    "price": "15.99",
-    "publisher": "Harper & Brothers"
-  },
-  {
-    "id": "6",
     "name": "1984",
     "author": "George Orwell",
     "genre": "Dystopian Fiction",
