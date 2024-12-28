@@ -12,7 +12,7 @@ const router = express.Router();
  * Access: Public
  * Parameters: None
  */
-router.get("/", (req,res) => {
+router.get("/", (req, res) => {
     res.status(200).json({
         success:true,
         message: "Fetched all the books",
@@ -28,7 +28,7 @@ router.get("/", (req,res) => {
  * Access: Public
  * Parameters: None
  */
-router.get("/issued/by-user", (req,res) => {
+router.get("/issued/by-user", (req, res) => {
     const usersWithIssuedBook = users.filter((each) => {
         if(each.issuedBook) 
             return each;
@@ -65,7 +65,7 @@ router.get("/issued/by-user", (req,res) => {
  * Access: Public
  * Parameters: None
  */
-router.get("/:id", (req,res) => {
+router.get("/:id", (req, res) => {
     const {id} = req.params;
     const book = books.find((each) => each.id === id);
 
