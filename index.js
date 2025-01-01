@@ -1,4 +1,8 @@
 const express = require("express");
+const dotenv = require("dotenv");
+const DbConnection = require("./dbConnection");
+dotenv.config();
+DbConnection();
 const { users } = require("./data/users.json");
 const { books } = require("./data/books.json");
 
