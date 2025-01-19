@@ -1,5 +1,4 @@
-{
-  "name": "book-record-build",
+{"name": "book-record-build",
   "version": "1.0.0",
   "description": "Book Library System",
   "main": "index.js",
