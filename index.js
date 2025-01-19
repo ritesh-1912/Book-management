@@ -3,7 +3,6 @@ const DbConnection = require("./dbConnection.js");
 const dotenv = require("dotenv");
 const { users } = require("./data/users.json");
 const { books } = require("./data/books.json");
-
 const usersRouter = require("./routes/users.js");
 const booksRouter = require("./routes/books.js");
 
