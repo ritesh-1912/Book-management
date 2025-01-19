@@ -1,5 +1,4 @@
 // DTO => Data Transfer Object
-
 class IssuedBook {
     _id;
     name;
