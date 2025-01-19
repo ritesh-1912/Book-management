@@ -6,7 +6,6 @@ function DbConnection() {
     console.error("Error: MONGO_URI is not defined in environment variables.");
     process.exit(1); // Exit if no DB URL is provided
 }
-
 // Connect to the database
 mongoose.connect(DB_URL)
     .then(() => console.log("Database connected successfully"))
@@ -22,5 +21,4 @@ mongoose.connect(DB_URL)
     console.log("Database Connected!");
   });
 
-// CRUD => Create, Read, Update & Delete
 module.exports = DbConnection;
